@@ -13,7 +13,7 @@ Dalam notebook ini kita akan melakukan analisa time series dari data univariate 
 3. Kembangkan model: Kita akan melakukan prediksi dengan periode yang ditentukan (tergantung pada kebutuhan). Metode autoregresif berfungsi baik dalam meramalkan beberapa periode ke depan.
 4. Validasi model: Bandingkan nilai yang diprediksi dengan nilai aktual dalam sampel validasi dengan metrik evaluasi dasar (AIC, RMSE, MAE, dll.).
    
-![image](https://github.com/AbelKristanto/Forecasting-Inflation/assets/58840455/698ef8c2-f7f9-4868-b7a0-e1e96512bfc6)
+![image](https://github.com/AbelKristanto/Forecasting-Inflation/assets/58840455/42708f90-3a64-4d69-a14b-1466b5b4e460)
 
 
 ![inflation](https://github.com/AbelKristanto/Forecasting-Inflation/assets/58840455/f63ba3e7-1315-4044-b6f5-f334924107e1)
