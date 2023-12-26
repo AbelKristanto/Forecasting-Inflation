@@ -15,4 +15,5 @@ Dalam notebook ini kita akan melakukan analisa time series dari data univariate 
    
 ![image](https://github.com/AbelKristanto/Forecasting-Inflation/assets/58840455/698ef8c2-f7f9-4868-b7a0-e1e96512bfc6)
 
+
 ![inflation](https://github.com/AbelKristanto/Forecasting-Inflation/assets/58840455/f63ba3e7-1315-4044-b6f5-f334924107e1)
